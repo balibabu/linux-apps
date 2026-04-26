@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Browse
+Exec=brave-browser --incognito
+Icon=/home/lappy/Pictures/appIcons/happy.png
