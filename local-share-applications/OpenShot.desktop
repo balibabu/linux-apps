@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=OpenShot
+Exec=/home/lappy/Documents/Applications/OpenShot.AppImage
+Type=Application
+Categories=Utility;
+Comment=Your App Description
+Terminal=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=MyStat
+Exec=/home/lappy/Workspace/2025/May+/LinuxApp/mystat.sh %f
+Terminal=true
+MimeType=inode/directory;application/octet-stream;
+Icon=/home/lappy/Pictures/appIcons/stat.jpeg

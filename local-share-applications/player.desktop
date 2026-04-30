@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=PlayerbyBali
+Exec=/home/lappy/Workspace/2025/May+/LinuxApp/player.sh %f
+Terminal=true
+MimeType=audio/*;video/*;
+Icon=/home/lappy/Pictures/appIcons/player.png

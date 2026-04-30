@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=PowerOff
+Exec=/home/lappy/Workspace/2025/May+/LinuxApp/powerOff.sh
+Terminal=true
+Icon=/home/lappy/Pictures/appIcons/power2.png
