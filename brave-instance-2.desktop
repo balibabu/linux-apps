@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Brave Instance 2
+Comment=Brave Browser Instance 2
+Exec=brave-browser --user-data-dir=/home/lappy/brave-instance-2 --no-first-run --disable-gpu %U
+Icon=/home/lappy/Pictures/appIcons/Chromium.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
