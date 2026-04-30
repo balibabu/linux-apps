@@ -1,1 +1,10 @@
+-- > nano ~/.bashrc
 
+construct your line like below and add it to the file
+
+alias myenv='source /home/lappy/Documents/myenv/bin/activate'
+alias share='myenv; cd /home/lappy/Workspace/2025/utility/file-share/; python3 app.py'
+alias clip='myenv; python3 /home/lappy/Workspace/2025/utility/clipshare/app.py'
+alias scr='scrcpy -S -K'
+alias off='sudo /sbin/poweroff'
+alias vpn='cd /home/lappy/Documents/; sudo openvpn --config vpn.ovpn'
